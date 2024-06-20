@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-cout << I am Printing as Pandu" << endl;
+cout << "I am Printing as Pandu" << endl;
 return 0;
 
 }
